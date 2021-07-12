@@ -37,6 +37,9 @@ public class Test10 {
 		
 		System.out.println("Input: " +input);
 		System.out.println("Output: " +output);
+		
+		// Github 사용하기
+		// Code 추가
 	}
 
 }
